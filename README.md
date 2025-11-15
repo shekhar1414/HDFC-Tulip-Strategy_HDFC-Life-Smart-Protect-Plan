@@ -1,7 +1,5 @@
 # HDFC-Tulip-Strategy_HDFC-Life-Smart-Protect-Plan
 
-# HDFC Life ULIP – Complete Investment Strategy Documentation
-
 ## 📘 Plan Details
 - **Plan Type:** HDFC Life ULIP (Investment + Insurance)
 - **Policy Tenure:** 25 years
